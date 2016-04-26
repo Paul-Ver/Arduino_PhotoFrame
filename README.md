@@ -1,4 +1,4 @@
-# Arduino_PhotoFrame
+# Arduino PhotoFrame
 An 1.8" display with photos from SD card.
 
 Load pictures from an SD card to a 1.8" TFT screen.
