@@ -1,7 +1,10 @@
-# Arduino_E-PhotoFrame
+# Arduino_PhotoFrame
 An 1.8" display with photos from SD card.
 
-Load up to 20 photo's on an SD card
+Load pictures from an SD card to a 1.8" TFT screen.
+Like an electronic photo frame!
+
+![Preview-GIF-Photoframe](https://github.com/Paul-Ver/Arduino_PhotoFrame/blob/master/Preview/gifPreview.gif)
 
 Basic computer, programming and soldering skills required.
 
@@ -21,7 +24,7 @@ Basic computer, programming and soldering skills required.
 - Have fun watching your pictures on a way too small display!
 - Mass-produce and sell, profit!
 
-![Image_of_photoframe](https://github.com/Paul-Ver/Arduino_E-PhotoFrame/blob/master/Preview/IMG_20160426_192314.jpg)
+![preview image](https://github.com/Paul-Ver/Arduino_PhotoFrame/blob/master/Preview/IMG_20160426_192340.jpg)
 
 ## Notes and errata
 - images should be in the ROOT of the SD card, not in sub-folders.
@@ -34,3 +37,5 @@ Basic computer, programming and soldering skills required.
 ## Special thanks to
 - Tweaking4All tutorial on the SainSmart LCD I'm using. http://www.tweaking4all.nl/
 - Adafruit for the amazing libraries which push the borders of Arduino/ATmega microcontrollers.
+
+![preview image2](https://github.com/Paul-Ver/Arduino_PhotoFrame/blob/master/Preview/IMG_20160426_192314.jpg)
