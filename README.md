@@ -21,6 +21,8 @@ Basic computer, programming and soldering skills required.
 - Have fun watching your pictures on a way too small display!
 - Mass-produce and sell, profit!
 
+![Image_of_photoframe](https://github.com/Paul-Ver/Arduino_E-PhotoFrame/blob/master/Preview/IMG_20160426_192314.jpg)
+
 ## Notes and errata
 - images should be in the ROOT of the SD card, not in sub-folders.
 - SD card has to be FAT16, NOT FAT32 or anything else. I formatted a 8GB sd-card by writing a raspbian image to it and then formatting it withouth size adjustments (https://www.raspberrypi.org/documentation/installation/installing-images/). Full 8GB didn't work in my case!
