@@ -4,6 +4,8 @@ An 1.8" display with photos from SD card.
 Load pictures from an SD card to a 1.8" TFT screen.
 Like an electronic photo frame!
 
+(GIF loading, will take some time!)
+
 ![Preview-GIF-Photoframe](https://github.com/Paul-Ver/Arduino_PhotoFrame/blob/master/Preview/gifPreview.gif)
 
 Basic computer, programming and soldering skills required.
